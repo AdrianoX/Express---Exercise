@@ -1,0 +1,11 @@
+{
+  "name": "Express---Exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AdrianoX/Express---Exercise.git",
+  "author": "Adrian Kryzinski <adriankryzinski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
